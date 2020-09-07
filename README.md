@@ -1,4 +1,4 @@
-# Data-Mining
+# DataMining
 
 ## Predicting Survival Based on Echocardiogram Measurements and Results
 
