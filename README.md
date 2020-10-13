@@ -6,9 +6,11 @@ In the course for Data Mining, my final capstone project was utilizing a dataset
 
 This dataset was obtained from the University of California-Irvine Machine Learning Repository.  In the subjects of this dataset, an echocardiogram (ultrasound of the heart) was done and measurements taken from those who suffered a heart attack.  The target variable was survival 1 year after the heart attack.  The purpose of this project was to use a machine learning algorithm to see if survival could be accurately predicted based on the measurements variables in question.
 
+### Coding Language:
+Python
+
 ### Dataset URL:
 https://archive.ics.uci.edu/ml/datasets/echocardiogram
 
 ### Source Cited:
-
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
